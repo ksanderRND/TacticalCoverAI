@@ -15,7 +15,6 @@ Built with C++ and Blueprints in Unreal Engine 5.3.
 - Health system with death and respawn
 - Basic HUD with crosshair and health bar
 - Enemy AI with NavMesh-based navigation
-- Multiplayer game mode with split-screen support
 
 ## Planned AI Features
 
